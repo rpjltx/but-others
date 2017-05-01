@@ -6,3 +6,7 @@
 - [小程序]<https://mp.weixin.qq.com/debug/wxadoc/dev/demo.html>
 
 <114.251.70.105:81>
+[众成翻译](http://www.zcfy.cc/user/loginpage)
+[Bash](https://github.com/Idnan/bash-guide)
+[Express](https://juejin.im/post/5902973eb123db3ee46a0107)
+[indexDB](https://juejin.im/post/59013d2c0ce46300614ebe70)
