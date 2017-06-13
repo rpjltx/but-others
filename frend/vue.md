@@ -4,7 +4,7 @@
 #### 利用vue2+vuex写一个模仿微信app的单页面应用 https://github.com/bailichen/vue-weixin
 #### vue2 + webpack + vuex + vue-router2 高仿腾讯动漫单页面应用 https://github.com/wa7chliang/acqq
 #### 基于 node.js + Mongodb 构建电商后台系统 https://github.com/bailicangdu/node-elm
-
+#### https://github.com/lvpf/meiaApp
 
 
 
